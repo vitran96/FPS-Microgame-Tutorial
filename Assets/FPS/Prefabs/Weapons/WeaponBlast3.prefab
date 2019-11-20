@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 555188489432107117}
   - component: {fileID: 8090847488450120274}
   m_Layer: 0
-  m_Name: Weapon_Blaster
+  m_Name: WeaponBlast3
   m_TagString: Untagged
   m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -187,7 +187,7 @@ MonoBehaviour:
   weaponRoot: {fileID: 1505447205160222267}
   weaponMuzzle: {fileID: 8334323006752503713}
   shootType: 1
-  projectilePrefab: {fileID: 528546716365072993, guid: 3c6b27d949cdda749892906e1f1d1b27,
+  projectilePrefab: {fileID: 4983448727927535483, guid: 369da23b709b0d64e9a9fab9ca91d46c,
     type: 3}
   delayBetweenShots: 0.1
   bulletSpreadAngle: 1
