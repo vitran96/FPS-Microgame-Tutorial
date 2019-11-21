@@ -42,7 +42,7 @@ GameObject:
   - component: {fileID: 4983448727927535483}
   - component: {fileID: 9001590303481258585}
   m_Layer: 0
-  m_Name: NewProjectile
+  m_Name: GummyProjectile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -91,7 +91,8 @@ MonoBehaviour:
   root: {fileID: 136866681552978489}
   tip: {fileID: 6548821891038031552}
   maxLifeTime: 5
-  impactVFX: {fileID: 100000, guid: a8f127f4a0a19407db2b784d5ae1b637, type: 3}
+  impactVFX: {fileID: 7207925886544580918, guid: 719293790745272438658c067405e0aa,
+    type: 3}
   impactVFXLifetime: 5
   impactVFXSpawnOffset: 0.1
   impactSFXClip: {fileID: 8300000, guid: be87267ec54c5264daffd2ffeb91d6a7, type: 3}
